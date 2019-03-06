@@ -9,10 +9,10 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.42102d4124bd538bae3c.js",
-        "/polyfills.8a61012ef5f13d508214.js",
+        "/main.1b82c47f57cf678775ea.js",
+        "/polyfills.7a0e6866a34e280f48e7.js",
         "/runtime.a66f828dca56eeb90e02.js",
-        "/styles.d12108977c9929f5fb2c.css"
+        "/styles.5fdf47ba1da1e357f851.css"
       ],
       "patterns": []
     },
@@ -21,6 +21,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/assets/dyc-logo.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -35,6 +36,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/assets/dyc-logo.png": "52515e487270f21bf3ff294f27d503b6108c14c2",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -44,11 +46,11 @@
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "5d48281925d06480e8e85a14586919079ab2f56d",
-    "/main.42102d4124bd538bae3c.js": "ccfe50041e4accdbdff99bb0d2904ab37d6f25b5",
-    "/polyfills.8a61012ef5f13d508214.js": "545c24c573146dfe99fe677f9b7319b838a21330",
+    "/index.html": "62807d82155b60010fb3e00862680d44979f5093",
+    "/main.1b82c47f57cf678775ea.js": "5f0c055b9d33185e5417c17095127aebd4aad738",
+    "/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/styles.d12108977c9929f5fb2c.css": "8e5f6cc6fe20f982aa11b6c8ef8663ad9bb277a4"
+    "/styles.5fdf47ba1da1e357f851.css": "4ca6657a8f5ed9a069911b3667548efc3249c826"
   },
   "navigationUrls": [
     {
